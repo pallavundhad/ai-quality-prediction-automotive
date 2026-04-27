@@ -1,7 +1,7 @@
 # AI-Powered Predictive Quality Control
 ### End-to-End PM Portfolio Project : German Automotive Manufacturing
 
-> **From market research to working ML model.** This project covers the full product lifecycle: user research, persona development, RICE prioritisation, PRD, MVP roadmap, and a validated machine learning model — for an AI quality control platform targeting German automotive Tier 1 suppliers.
+> **From market research to working ML model.** This project covers the full product lifecycle: user research, persona development, RICE prioritisation, PRD, MVP roadmap, and a validated machine learning model, for an AI quality control platform targeting German automotive Tier 1 suppliers.
 
 ---
 
